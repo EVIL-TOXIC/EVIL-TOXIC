@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻<br>Full Stack Developer passionate about building modern, scalable web applications.<br>📚<br>Lifelong learner constantly expanding my knowledge in new technologies and best practices.<br>⚡<br>Skilled multitasker adept at managing multiple projects efficiently and with high quality.<br>🚀<br>Always eager to take on challenges and quickly adapt to evolving technical environments.<br>🤝<br>Collaborative team player committed to delivering impactful and user-centric solutions.
+💻 Full Stack Developer passionate about building modern, scalable web applications.<br>📚 Lifelong learner constantly expanding my knowledge in new technologies and best practices.<br>⚡Skilled multitasker adept at managing multiple projects efficiently and with high quality.<br>🚀 Always eager to take on challenges and quickly adapt to evolving technical environments.<br>🤝 Collaborative team player committed to delivering impactful and user-centric solutions.
 
 
 ## 🌐 Socials:
