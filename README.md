@@ -12,10 +12,10 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=EVIL-TOXIC&theme=aura&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EVIL-TOXIC&theme=aura&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
+### 🔝 Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=EVIL-TOXIC&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
